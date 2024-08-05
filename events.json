@@ -1,0 +1,93 @@
+[
+    {
+        "location": "City of Destruction",
+        "events": [
+            {
+                "description": "You feel a deep sense of despair and urgency to leave this place.",
+                "effect": "none"
+            },
+            {
+                "description": "You find a small group of believers who offer you encouragement.",
+                "effect": "faith+10"
+            }
+        ]
+    },
+    {
+        "location": "Slough of Despond",
+        "events": [
+            {
+                "description": "You are sinking in the mud and struggling to get out.",
+                "effect": "hp-10"
+            },
+            {
+                "description": "Help arrives just in time, pulling you out of the mud.",
+                "effect": "faith+10"
+            }
+        ]
+    },
+    {
+        "location": "Hill Difficulty",
+        "events": [
+            {
+                "description": "The steep hill makes you exhausted.",
+                "effect": "hp-20"
+            },
+            {
+                "description": "A fellow pilgrim helps you up the hill, sharing words of encouragement.",
+                "effect": "faith+15"
+            }
+        ]
+    },
+    {
+        "location": "Valley of Humiliation",
+        "events": [
+            {
+                "description": "Apollyon attacks you with fierce blows.",
+                "effect": "hp-30"
+            },
+            {
+                "description": "You stand firm in your faith, and Apollyon flees.",
+                "effect": "faith+20"
+            }
+        ]
+    },
+    {
+        "location": "Vanity Fair",
+        "events": [
+            {
+                "description": "You are tempted by the vanity and sinful pleasures.",
+                "effect": "faith-10"
+            },
+            {
+                "description": "You find a group of true believers who strengthen your resolve.",
+                "effect": "faith+15"
+            }
+        ]
+    },
+    {
+        "location": "Doubting Castle",
+        "events": [
+            {
+                "description": "Giant Despair imprisons you and you lose hope.",
+                "effect": "faith-20"
+            },
+            {
+                "description": "You find the key of Promise and escape the dungeon.",
+                "effect": "faith+20"
+            }
+        ]
+    },
+    {
+        "location": "Celestial City",
+        "events": [
+            {
+                "description": "You feel a deep sense of peace and joy as you approach the Celestial City.",
+                "effect": "faith+50"
+            },
+            {
+                "description": "Angels greet you, welcoming you into the Celestial City.",
+                "effect": "hp+50"
+            }
+        ]
+    }
+]

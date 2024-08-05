@@ -1,0 +1,100 @@
+[
+    {
+        "name": "City of Destruction",
+        "description": "A place full of despair and impending doom.",
+        "x": 100,
+        "y": 300,
+        "image": "city_of_destruction.png"
+    },
+    {
+        "name": "Slough of Despond",
+        "description": "A swamp representing the struggles and doubts of a pilgrim.",
+        "x": 200,
+        "y": 300,
+        "image": "slough_of_despond.png"
+    },
+    {
+        "name": "Wicket Gate",
+        "description": "The narrow gate that leads to the path of salvation.",
+        "x": 300,
+        "y": 300,
+        "image": "wicket_gate.png"
+    },
+    {
+        "name": "House of Interpreter",
+        "description": "A place of learning and insight for the pilgrim.",
+        "x": 400,
+        "y": 300,
+        "image": "house_of_interpreter.png"
+    },
+    {
+        "name": "Hill Difficulty",
+        "description": "A steep hill that represents the challenges in a Christian's life.",
+        "x": 500,
+        "y": 300,
+        "image": "hill_difficulty.png"
+    },
+    {
+        "name": "Palace Beautiful",
+        "description": "A place of rest and fellowship for pilgrims.",
+        "x": 600,
+        "y": 300,
+        "image": "palace_beautiful.png"
+    },
+    {
+        "name": "Valley of Humiliation",
+        "description": "A place where the pilgrim faces inner struggles and humility.",
+        "x": 700,
+        "y": 300,
+        "image": "valley_of_humiliation.png"
+    },
+    {
+        "name": "Valley of the Shadow of Death",
+        "description": "A dark and dangerous place representing severe trials.",
+        "x": 800,
+        "y": 300,
+        "image": "valley_of_shadow.png"
+    },
+    {
+        "name": "Vanity Fair",
+        "description": "A town where vanity and sinful pleasures are abundant.",
+        "x": 900,
+        "y": 300,
+        "image": "vanity_fair.png"
+    },
+    {
+        "name": "Doubting Castle",
+        "description": "A castle where pilgrims are imprisoned by Giant Despair.",
+        "x": 1000,
+        "y": 300,
+        "image": "doubting_castle.png"
+    },
+    {
+        "name": "Delectable Mountains",
+        "description": "A beautiful place offering rest and view of the Celestial City.",
+        "x": 1100,
+        "y": 300,
+        "image": "delectable_mountains.png"
+    },
+    {
+        "name": "Enchanted Ground",
+        "description": "A dangerous place where pilgrims may fall asleep and forget their journey.",
+        "x": 1200,
+        "y": 300,
+        "image": "enchanted_ground.png"
+    },
+    {
+        "name": "Land of Beulah",
+        "description": "A peaceful land close to the Celestial City.",
+        "x": 1300,
+        "y": 300,
+        "image": "land_of_beulah.png"
+    },
+    {
+        "name": "Celestial City",
+        "description": "The final destination representing heaven.",
+        "x": 1400,
+        "y": 300,
+        "image": "celestial_city.png"
+    }
+]

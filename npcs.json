@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Evangelist",
+        "image": "evangelist.png",
+        "dialog": [
+            "Flee from the wrath to come. - Matthew 3:7",
+            "Strive to enter through the narrow door. - Luke 13:24"
+        ],
+        "location": "City of Destruction"
+    },
+    {
+        "name": "Help",
+        "image": "help.png",
+        "dialog": [
+            "Take my hand and I will help you out of the Slough of Despond."
+        ],
+        "location": "Slough of Despond"
+    },
+    {
+        "name": "Goodwill",
+        "image": "goodwill.png",
+        "dialog": [
+            "I will open the gate for you. Welcome to the path of salvation."
+        ],
+        "location": "Wicket Gate"
+    },
+    {
+        "name": "Interpreter",
+        "image": "interpreter.png",
+        "dialog": [
+            "Here you will learn the ways of the Christian life."
+        ],
+        "location": "House of Interpreter"
+    },
+    {
+        "name": "Discretion",
+        "image": "discretion.png",
+        "dialog": [
+            "Welcome to the Palace Beautiful. Rest and regain your strength."
+        ],
+        "location": "Palace Beautiful"
+    },
+    {
+        "name": "Apollyon",
+        "image": "apollyon.png",
+        "dialog": [
+            "You will face great battles in the Valley of Humiliation."
+        ],
+        "location": "Valley of Humiliation"
+    },
+    {
+        "name": "Faithful",
+        "image": "faithful.png",
+        "dialog": [
+            "Stay strong, Christian. Together we will overcome the Valley of the Shadow of Death."
+        ],
+        "location": "Valley of the Shadow of Death"
+    },
+    {
+        "name": "Vanity Fair Merchant",
+        "image": "vanity_merchant.png",
+        "dialog": [
+            "Buy my goods! Indulge in the pleasures of Vanity Fair."
+        ],
+        "location": "Vanity Fair"
+    },
+    {
+        "name": "Giant Despair",
+        "image": "giant_despair.png",
+        "dialog": [
+            "You will never escape Doubting Castle!"
+        ],
+        "location": "Doubting Castle"
+    },
+    {
+        "name": "Shepherds",
+        "image": "shepherds.png",
+        "dialog": [
+            "Welcome to the Delectable Mountains. Here you can see the Celestial City in the distance."
+        ],
+        "location": "Delectable Mountains"
+    }
+]
