@@ -3,6 +3,8 @@
 
 This is a text-based adventure game inspired by John Bunyan's "Pilgrim's Progress." The player, named Christian, embarks on a journey from the City of Destruction to the Celestial City, encountering various characters, events, and challenges along the way.
 
+## This is a work in progress.
+
 ## Features
 
 - Text-based commands for player interaction.
@@ -27,12 +29,12 @@ This is a text-based adventure game inspired by John Bunyan's "Pilgrim's Progres
 
 3. **Clone the repository**: Clone this repository to your local machine:
    ```bash
-   git clone 
+   git clone [https://github.com/yourusername/pilgrims-progress-mud-game.git](https://github.com/HelloByeLetsNot/Pilgrims-Progress)
    ```
 
 4. **Navigate to the project directory**:
    ```bash
-   cd pilgrims-progress-mud-game
+   cd Pilgrims-Progress
    ```
 
 5. **Add required images**: Ensure you have the following images in the project directory:
@@ -79,7 +81,7 @@ This is a text-based adventure game inspired by John Bunyan's "Pilgrim's Progres
 
 ## Example Gameplay
 
-
+```plaintext
 Enter your character's name: Christian
 Christian, you are in City of Destruction. HP: 100, Faith: 100. Enter a command: look
 You are in City of Destruction. A place full of despair and impending doom.
@@ -92,6 +94,7 @@ Event effect applied: hp-10
 
 Christian, you are in Slough of Despond. HP: 90, Faith: 100. Enter a command: talk
 Help says: Take my hand and I will help you out of the Slough of Despond.
+```
 
 ## Contributing
 
